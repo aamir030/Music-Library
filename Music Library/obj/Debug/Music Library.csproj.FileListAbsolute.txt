@@ -1,0 +1,28 @@
+C:\Users\nawab\source\repos\Music Library\Music Library\obj\Debug\Music Library.csprojAssemblyReference.cache
+C:\Users\nawab\source\repos\Music Library\Music Library\obj\Debug\Music_Library.Main.resources
+C:\Users\nawab\source\repos\Music Library\Music Library\obj\Debug\Music_Library.Login.resources
+C:\Users\nawab\source\repos\Music Library\Music Library\obj\Debug\Music_Library.Properties.Resources.resources
+C:\Users\nawab\source\repos\Music Library\Music Library\obj\Debug\Music Library.csproj.GenerateResource.cache
+C:\Users\nawab\source\repos\Music Library\Music Library\obj\Debug\Music Library.csproj.CoreCompileInputs.cache
+C:\Users\nawab\source\repos\Music Library\Music Library\obj\Debug\Music_Library.Form_Register.resources
+C:\Users\nawab\source\repos\Music Library\Music Library\bin\Debug\Music Library.exe.config
+C:\Users\nawab\source\repos\Music Library\Music Library\bin\Debug\Music Library.exe
+C:\Users\nawab\source\repos\Music Library\Music Library\bin\Debug\Music Library.pdb
+C:\Users\nawab\source\repos\Music Library\Music Library\bin\Debug\MySql.Data.dll
+C:\Users\nawab\source\repos\Music Library\Music Library\bin\Debug\Google.Protobuf.dll
+C:\Users\nawab\source\repos\Music Library\Music Library\bin\Debug\MySql.Data.xml
+C:\Users\nawab\source\repos\Music Library\Music Library\obj\Debug\Music Library.csproj.CopyComplete
+C:\Users\nawab\source\repos\Music Library\Music Library\obj\Debug\Music Library.exe
+C:\Users\nawab\source\repos\Music Library\Music Library\obj\Debug\Music Library.pdb
+C:\Users\nawab\source\repos\Music Library\Music Library\obj\Debug\Music_Library.Form_Manage.resources
+C:\Users\nawab\source\repos\Music Library\Music Library\obj\Debug\Music_Library.Add_Album.resources
+C:\Users\nawab\source\repos\Music Library\Music Library\obj\Debug\Music_Library.Form_Add.resources
+C:\Users\nawab\source\repos\Music Library\Music Library\obj\Debug\Music_Library.Add_Genre.resources
+C:\Users\nawab\source\repos\Music Library\Music Library\obj\Debug\Music_Library.Add_Track.resources
+C:\Users\nawab\source\repos\Music Library\Music Library\obj\Debug\Music_Library.Add_User.resources
+C:\Users\nawab\source\repos\Music Library\Music Library\obj\Debug\Music_Library.ViewTrack.resources
+C:\Users\nawab\source\repos\Music Library\Music Library\bin\Debug\Interop.WMPLib.dll
+C:\Users\nawab\source\repos\Music Library\Music Library\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\nawab\source\repos\Music Library\Music Library\obj\Debug\Interop.WMPLib.dll
+C:\Users\nawab\source\repos\Music Library\Music Library\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\nawab\source\repos\Music Library\Music Library\obj\Debug\Music Library.csproj.ResolveComReference.cache
